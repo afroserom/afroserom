@@ -1,6 +1,6 @@
-<div>
-  <h1 align="center">Hi, my name is Andrés Rosero ✌️</h1>
-</div>
+<p align=center>
+	<img src="assets/github_header.jpg"/>
+</p>
 
 ## My Stats
 ![Andrés's github stats](https://github-readme-stats.vercel.app/api?username=afroserom&show_icons=true&count_private=true&include_all_commits=true)
