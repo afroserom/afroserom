@@ -4,7 +4,7 @@
 
 ## My Stats
 ![Andrés' github stats](https://github-readme-stats.vercel.app/api?username=afroserom&show_icons=true&count_private=true&include_all_commits=true)
-![Andrés' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afroserom)
+![Andrés' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afroserom&v=2)
 
 ## Languages and tools
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.console.google.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="bigquery" height="40"/> </a> <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40"/> </a> 
