@@ -1,18 +1,17 @@
-<p align=center>
-	<img src="assets/github_header.jpg"/>
+<div align="center">
+
+# Andrés Felipe Rosero
+
+### AI Specialist • Data Scientist • Environmental Engineer
+
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/afroserom" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://afroserom.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e1116?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTExLjk5OTggMTQuNDA4OEMxMy4zMzE4IDE0LjQwODggMTQuNDA4OCAxMy4zMzE4IDE0LjQwODggMTEuOTk5OEMxNC40MDg4IDEwLjY2NzggMTMuMzMxOCA5LjU5MDgxIDExLjk5OTggOS41OTA4MUMxMC42Njc4IDkuNTkwODEgOS41OTA4MSAxMC42Njc4IDkuNTkwODEgMTEuOTk5OEM5LjU5MDgxIDEzLjMzMTggMTAuNjY3OCAxNC40MDg4IDExLjk5OTggMTQuNDA4OFoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMyAxMS45OTk4QzMgNy4wMjk0NCA3LjAyOTQ0IDMgMTEuOTk5OCAzQzE2Ljk3MDIgMyAyMSA3LjAyOTQ0IDIxIDExLjk5OThDMjEgMTYuOTcwMiAxNi45NzAyIDIxIDExLjk5OTggMjFDMTAuMTg0MSAyMS4wMDA0IDguNDM3NzYgMjAuNDQ3MiA2LjkzMDIzIDE5LjQ0MkM1LjQyMjcgMTguNDM2OCA0LjI0MDk0IDE3LjAzMjMgMy41NDY0MSAxNS4zNzQxQzIuODUxODcgMTMuNzE1OCAyLjY4NDE3IDExLjg5ODUgMy4wNzM4NyAxMC4xNTQ4QzMuNDYzNTggOC40MTEwNiA0LjM4NDI3IDYuODQzNTQgNS43MjQ5NiA1LjcyNDk2QzYuODQzNTQgNC4zODQyNyA4LjQxMTA2IDMuNDYzNTggMTAuMTU0OCAzLjA3Mzg3QzExLjg5ODUgMi42ODQxNyAxMy43MTU4IDIuODUxODcgMTUuMzc0MSAzLjU0NjQxQzE3LjAzMjMgNC4yNDA5NCAxOC40MzY4IDUuNDIyNyAxOS40NDIgNi45MzAyM0MyMC40NDcyIDguNDM3NzYgMjEuMDAwNCAxMC4xODQxIDIxIDExLjk5OThDMTkgODgwMSA5Ljg4MDIgMyAxMS45OTk4IDNDNC4yOTgwMiAzIDMgOS44ODAyIDMgMTEuOTk5OFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==" alt="Portfolio"/>
+  </a>
 </p>
-
-## My Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afroserom&show_icons=true&count_private=true&include_all_commits=true" />
-</a>
-
-## Languages and tools
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.console.google.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="bigquery" height="40"/> </a> <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://arduino.cc" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="arduino" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
-
-## Connect with me
-<p align="left">
-<a href="https://www.facebook.com/andres.rosero.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="afroserom" height="30" width="40" /></a>
-<a href="https://www.instagram.com/afroserom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="afroserom" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/afroserom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="afroserom" height="30" width="40" /></a>
